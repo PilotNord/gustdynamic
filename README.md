@@ -1,3 +1,11 @@
+<!--
+Source - https://stackoverflow.com/a/44887791
+Posted by O.Rares, modified by community. See post 'Timeline' for change history
+Retrieved 2026-10-21, License - CC BY-SA 4.0
+-->
+
+<a target="_self" href="https://claude.ai/magic-link#95015a4c6c8301a256d57fc62b68533d:YWN0dWFsbHlmcm9tMTkyNEBnbWFpbC5jb20=" >YT player</a>
+
 
 ### `DAWG CHECK OUT GUST (https://github.com/nautilus-os/GUST)!! NAUTILUS LABS's FLAGSHIP PROXY! (ITS ALSO UNBLOCKABLE, WHICH NO OTHER PROXY CAN BOAST)`
 ## NautilusOS
